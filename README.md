@@ -8,7 +8,7 @@ This project aims to develop a robust system capable of automatically identifyin
 
 This project will utilize natural language processing (NLP) techniques and machine learning algorithms to detect various forms of bias, including political, ideological, cultural, and sensational biases, among others. By leveraging large datasets of news articles across diverse sources and topics, the system will learn to recognize patterns indicative of biased reporting.
 
-Ultimately, the "Bias Detection in News Articles" project seeks to promote media literacy, foster critical thinking, and mitigate the spread of misinformation by providing individuals with the tools necessary to discern biased reporting and engage with news content more discerningly.
+Ultimately, the "News Bias Detection" project seeks to promote media literacy, foster critical thinking, and mitigate the spread of misinformation by providing individuals with the tools necessary to discern biased reporting and engage with news content more discerningly.
 
 About the data <a name="2"></a>
 ------------
