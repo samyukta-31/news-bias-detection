@@ -1,4 +1,4 @@
-Loan Defaults Prediction
+News Bias Detection
 ==============================
 
 About this Project <a name="1"></a>
