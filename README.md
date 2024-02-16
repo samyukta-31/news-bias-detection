@@ -13,4 +13,4 @@ Ultimately, the "Bias Detection in News Articles" project seeks to promote media
 About the data <a name="2"></a>
 ------------
 
-The dataset has been taken from HuggingFace, titled [news-bias-full-data] (https://huggingface.co/datasets/newsmediabias/news-bias-full-data) The dataset encompasses multiple dimensions of biases in news media, such as political inclinations, hate speech, toxicity, sexism, ageism, and more, establishing its distinctiveness in the realm of similar datasets. It's noteworthy that the dataset explicitly refrains from including any personally identifiable information (PII).
+The dataset has been taken from HuggingFace, titled [news-bias-full-data]((https://huggingface.co/datasets/newsmediabias/news-bias-full-data))  The dataset encompasses multiple dimensions of biases in news media, such as political inclinations, hate speech, toxicity, sexism, ageism, and more, establishing its distinctiveness in the realm of similar datasets. It's noteworthy that the dataset explicitly refrains from including any personally identifiable information (PII).
